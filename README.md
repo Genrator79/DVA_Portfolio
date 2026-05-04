@@ -1,4 +1,4 @@
-# Ranajeet Roy - Portfolio
+# Abhijeet Kumar - Portfolio
 
 A dynamic, GitHub-style portfolio website showcasing my work as a Data Visualization Analyst and Developer. The portfolio features projects across Data Analytics, Machine Learning, and Full-Stack Development.
 
@@ -23,6 +23,9 @@ A dynamic, GitHub-style portfolio website showcasing my work as a Data Visualiza
 - **Data & ML**: Pandas, NumPy, Scikit-learn, Machine Learning, GenAI
 - **Databases & ORM**: PostgreSQL, MongoDB, MySQL, Prisma ORM
 - **Visualization**: Tableau, Excel
+
+## Live Link
+- https://dva-portfolio-pi-opal.vercel.app/
 
 ## Setup & Installation
 
