@@ -2,12 +2,12 @@ const base = import.meta.env.BASE_URL
 
 const projects = [
   {
-    name: "Transactions Fraud Detection",
+    name: "Aviation-Disruption-2026-Benchmark-Impact-Report",
     description: "End-to-end fraud detection analysis using machine learning on financial transaction data. Includes Jupyter notebooks for EDA, feature engineering, and model building alongside Tableau visualizations and structured documentation with DVA-focused portfolio materials.",
-    image: `${base}Fraud_detection.png`,
-    tags: ["Python", "Jupyter", "Machine Learning", "Tableau"],
-    github: "https://github.com/Rana-NST-RU/E_G14_TransactionsFraudDetection",
-    live: "https://public.tableau.com/views/FraudDetectionAnalysis_17772917071070/FraudDetectionActionableInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+    image: `${base}Aviation_Distruption.png`,
+    tags: ["Tableau"],
+    github: "https://github.com/Genrator79/Aviation-Disruption-2026-Benchmark-Impact-Report",
+    live: "https://public.tableau.com/app/profile/abhijeet.kumar5810/viz/AviationDisruption2026BenchmarkImpactReport/Dashboard1"
   },
   {
     name: "Hotel Booking Analytics",
@@ -16,6 +16,14 @@ const projects = [
     tags: ["Python", "Jupyter", "Machine Learning", "Tableau"],
     github: "https://github.com/Genrator79/E_G6_HotelBookingDemandAnalysis",
     live: "https://public.tableau.com/app/profile/abhijeet.kumar5810/viz/HotelBookingDemand_17772927069120/DASHBOARD1EXECUTIVEOVERVIEW"
+  },
+  {
+    name: "Transactions Fraud Detection",
+    description: "End-to-end fraud detection analysis using machine learning on financial transaction data. Includes Jupyter notebooks for EDA, feature engineering, and model building alongside Tableau visualizations and structured documentation with DVA-focused portfolio materials.",
+    image: `${base}Fraud_detection.png`,
+    tags: ["Python", "Jupyter", "Machine Learning", "Tableau"],
+    github: "https://github.com/Rana-NST-RU/E_G14_TransactionsFraudDetection",
+    live: "https://public.tableau.com/views/FraudDetectionAnalysis_17772917071070/FraudDetectionActionableInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
   },
   {
     name: "AI Study Coach",
